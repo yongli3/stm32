@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1277543668</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\StdPeriph_Driver\src\stm32f10x_usart.c</file>
+      <file>$PROJ_DIR$\User\stm32f10x_conf.h</file>
+      <file>$PROJ_DIR$\StartUp\startup_stm32f10x_md.s</file>
+      <file>$PROJ_DIR$\contiki-2.5\core\contiki-net.h</file>
+      <file>$PROJ_DIR$\contiki-2.5\cpu\clock.c</file>
+      <file>$PROJ_DIR$\CMSIS\system_stm32f10x.c</file>
+      <file>$PROJ_DIR$\StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\StdPeriph_Driver\src\stm32f10x_rcc.c</file>
+      <file>$PROJ_DIR$\contiki-2.5\core\contiki-lib.h</file>
+      <file>$PROJ_DIR$\CMSIS\stm32f10x.h</file>
+      <file>$PROJ_DIR$\CMSIS\system_stm32f10x.h</file>
+      <file>$PROJ_DIR$\StdPeriph_Driver\src\stm32f10x_gpio.c</file>
+      <file>$PROJ_DIR$\contiki-2.5\core\contiki.h</file>
+      <file>$PROJ_DIR$\contiki-2.5\core\contiki-version.h</file>
+      <file>$PROJ_DIR$\User\contiki-conf.h</file>
+      <file>$PROJ_DIR$\User\contiki-main.c</file>
+      <file>$PROJ_DIR$\contiki-2.5\cpu\debug-uart.c</file>
+      <file>$PROJ_DIR$\CMSIS\core_cm3.c</file>
+      <file>$PROJ_DIR$\User\stm32f10x_it.h</file>
+      <file>$PROJ_DIR$\User\stm32f10x_it.c</file>
+    </outputs>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
